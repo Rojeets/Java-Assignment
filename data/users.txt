@@ -1,0 +1,4 @@
+ADMIN001|admin|admin123|System Admin|admin@hallsymphony.com|0123456789|ADMINISTRATOR|true|2026-03-13
+MGR001|manager|manager123|John Manager|manager@hallsymphony.com|0123456790|MANAGER|true|2026-03-13
+SCH001|scheduler|scheduler123|Sarah Scheduler|scheduler@hallsymphony.com|0123456791|SCHEDULER|true|2026-03-13
+CUST001|customer1|customer123|Alice Wong|alice@email.com|0123456792|CUSTOMER|true|2026-03-13

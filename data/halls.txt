@@ -1,0 +1,5 @@
+HALL001|Symphony Auditorium|Auditorium|1000|300.0|true|Grand auditorium for large events
+HALL002|Golden Banquet Hall|Banquet Hall|300|100.0|true|Elegant hall for weddings and parties
+HALL003|Meeting Room A|Meeting Room|30|50.0|true|Small meeting room with projector
+HALL004|Meeting Room B|Meeting Room|30|50.0|true|Small meeting room with whiteboard
+HALL005|Premium Banquet Hall|Banquet Hall|300|100.0|true|Luxury banquet hall with garden view
